@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-For a live demo of the Portfolio [click here](https://jsug9.github.io/(Testing-practice)/).
+Not available for this project.
 
 ## Getting Started
 
