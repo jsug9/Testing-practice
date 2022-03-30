@@ -28,4 +28,4 @@ let calculator = new Calculator();
 // console.log(calculator.divide(6, 2))
 // console.log(calculator.multiply(2, 3))
 
-module.exports = { stringLength: stringLength, reverseString: reverseString, capitalize: capitalize,  calculator: calculator}
+module.exports = { stringLength, reverseString, capitalize, calculator}
